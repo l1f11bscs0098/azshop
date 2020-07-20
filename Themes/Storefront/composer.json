@@ -1,0 +1,27 @@
+{
+    "name": "azshop/storefront",
+    "description": "The azshop Storefront Theme.",
+    "authors": [
+        {
+            "name": "Emran Jan",
+            "email": "emran@ainodes.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Themes\\Storefront\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}

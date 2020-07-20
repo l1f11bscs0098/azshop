@@ -1,0 +1,6 @@
+{
+    "name": "Account",
+    "alias": "account",
+    "description": "The azshop Account Module.",
+    "order": 100
+}

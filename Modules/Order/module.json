@@ -1,0 +1,9 @@
+{
+    "name": "Order",
+    "alias": "order",
+    "description": "The azshop Order Module.",
+    "order": 100,
+    "providers": [
+        "Modules\\Order\\Providers\\OrderServiceProvider"
+    ]
+}

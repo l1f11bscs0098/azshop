@@ -1,0 +1,6 @@
+{
+    "name": "Transaction",
+    "alias": "transaction",
+    "description": "The azshop Transaction Module.",
+    "order": 100
+}
